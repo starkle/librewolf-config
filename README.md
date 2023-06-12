@@ -1,5 +1,10 @@
 ## LibreWolf config by starkle
-[Firefox](https://www.mozilla.org/en-US/firefox/new/) is a highly customizable open-source browser from Mozilla. The people behind the [LibreWolf](https://librewolf.net/docs/features/) project do the hard work of configuring and distributing a version of Firefox that is private, minimal, and free. The config in this repo aims to further realize those goals.
+The people behind the [LibreWolf](https://librewolf.net/docs/features/) project do the hard work of configuring and distributing a version of Firefox that is private, minimal, and free. The config in this repo aims to further realize those goals through aesthetic changes and minor hardening.
+
+![LibreWolf after config](./images/librewolf-after.png)
+
+Before configuration: <br>
+![LibreWolf before config](./images/librewolf-before.png)
 
 Note: LibreWolf (like any browser) should only be used if it can update automatically, such as the Flatpak or Microsoft Store packages.
 
@@ -19,7 +24,7 @@ To apply this configuration on new installations and profiles, download the `lib
 - Scrollbars are set to "always show".
 - The ugly picture-in-picture button is disabled. Can still be accessed in right-click menu.
 - New windows and tabs are set to "Blank". The Homepage option is ugly and functionally redundant.
-- Tab manager button is disabled. Reduces visual clutter, especially on KDE*
+- Tab manager button is disabled. Reduces visual clutter, [especially on KDE](./images/tabman-ugly.png)*
 - PDF viewer theme is forced into dark mode. Normally follows system theme which is forced light by RFP*
 - PDF viewing zoom is initally 100%. The default "automatic" behavior is inconsistent and annoying*
 - Links are allowed to open windows rather than tabs. On Linux, external links won't raise the window unless this is enabled.
