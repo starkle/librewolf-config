@@ -18,8 +18,8 @@ To apply this configuration on new installations and profiles, download the `lib
 - Bookmarks toolbar is set to "Never Show". Prevents a potential [browser size fingerprint vector](https://librewolf.net/docs/faq/#does-the-bookmarks-toolbar-impact-rfps-window-size-protection) (also prevented via letterboxing) and keeps the toolbar minimal.
 - "Compact" density is enabled. While officially unsupported, it has worked fine for several months and the default options take up too much space*
 - Container tabs are disabled. They are [redundant](https://librewolf.net/docs/faq/#why-isnt-first-party-isolate-enabled-by-default), awkward, and clutter the New Tab button.
-- The prompt to automatically open a download is enabled. Immediately opening files like archives and torrents is convenient.
-- The prompt to select a destination for a download is disabled. The previous prompt is enough hassle.
+- The prompt to automatically open downloads is enabled. Immediately opening files like archives and torrents is convenient.
+- The prompt to select a destination for each download is disabled. The previous prompt is enough hassle.
 - Autoscrolling is enabled for snappy navigation.
 - Scrollbars are set to "always show".
 - The ugly picture-in-picture button is disabled. Can still be accessed in right-click menu.
