@@ -1,10 +1,9 @@
 ## LibreWolf config by starkle
 The people behind the [LibreWolf](https://librewolf.net/docs/features/) project do the hard work of configuring and distributing a version of Firefox that is private, minimal, and free. The config in this repo aims to further realize those goals through aesthetic changes and minor hardening.
 
-![LibreWolf after config](./images/librewolf-after.png)
-
-Before configuration: <br>
-![LibreWolf before config](./images/librewolf-before.png)
+![LibreWolf config comparison](./images/comparison.png)
+<br>
+_With and without configuration_
 
 Note: LibreWolf (like any browser) should only be used if it can update automatically, such as the Flatpak or Microsoft Store packages.
 
