@@ -35,7 +35,6 @@ To apply this configuration on new installations and profiles, download the `lib
 These settings can't be shipped in a config file, but may still be desirable.
 - [Add the search engine](https://support.mozilla.org/en-US/kb/add-or-remove-search-engine-firefox) of your choice.
 - Extensions > Right-click uBlock Origin > Pin to Toolbar.
-- uBlock Origin > Dashboard > Appearance > Theme (Dark).
 - Consider putting uBlock Origin into [Medium or Hard](https://github.com/gorhill/uBlock/wiki/Blocking-mode) mode for enhanced security and privacy.
 - uBlock Origin > Filter Lists > Enable lists you deem relevant. I recommend EasyList Cookie to hide intrusive cookie banners.
 - Extensions > Manage > Manage Extension Shortcuts > uBlock Origin > Activate toolbar button > Set this to your liking. It will make tweaking broken sites easier using Medium or Hard mode. (My setting: Alt+Q)
