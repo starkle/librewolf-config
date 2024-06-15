@@ -1,3 +1,5 @@
+Note: I do not actively maintain this these days.
+
 ## LibreWolf config by starkle
 The people behind the [LibreWolf](https://librewolf.net/docs/features/) project do the hard work of configuring and distributing a version of Firefox that is private, minimal, and free. The config in this repo aims to further realize those goals through aesthetic changes and minor hardening.
 
